@@ -5,7 +5,7 @@ repository: https://github.com/Jonatas-Brito/mason-bricks/tree/master/bricks/cle
 version: 0.1.4
 
 environment:
-  mason: ">=0.1.0-dev.26 <0.1.0"
+  mason: "^0.1.0"
 
 vars:
   feature_name:
